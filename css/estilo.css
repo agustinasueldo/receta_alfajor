@@ -1,0 +1,21 @@
+#principal {color:purple;
+            font-size: xx-large;
+            text-decoration: underline;
+            text-align: justify;;}
+
+.titulos {color:blue;
+          font-size: large;
+        text-decoration: underline;}
+
+#parrafo {text-align: justify;}
+
+.alineado {text-align: justify;}
+
+.titulos2 {color:#5F276D;
+          font-size: medium;
+        text-decoration: underline;}
+
+body {
+    background-image: url(../imagenes/fondo.jpg);
+    background-color: #F5CAFF
+  }
